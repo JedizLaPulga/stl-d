@@ -6,6 +6,6 @@
 	"description": "Standard Template Library for D: Efficient, pure-D containers and algorithms and real world containers.",
 	"license": "MIT",
 	"name": "stl",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"targetType": "library"
 }
