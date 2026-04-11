@@ -2,8 +2,9 @@
 	"authors": [
 		"jedizlapulga"
 	],
-	"copyright": "(c) -2026 jedizlapulga",
+	"copyright": "Copyright (c) 2026, jedizlapulga",
 	"description": "Standard Template Library for D: Efficient, pure-D containers and algorithms and real world containers.",
 	"license": "MIT",
-	"name": "stl"
+	"name": "stl",
+	"targetType": "library"
 }
